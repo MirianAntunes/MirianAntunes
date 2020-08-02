@@ -1,0 +1,64 @@
+html, body{
+    margin: 10;
+
+}
+
+
+#imagem_fundo{
+    background: url("fundo.jpg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+
+}
+#titulo{
+    color:black;
+    padding-top: 20%;
+    font-size: 40px;
+}
+#subtitulo{
+    color: black;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#acao{
+    color: black;
+    border: 1px black solid;
+    padding: 10px 10px 10px 10px;
+}
+.icone{
+    width: 51px;
+}
+#dicas{
+    padding: 20px;
+}
+
+.imgeu{
+    width: 20%;
+}
+.coluna{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+.imgft{
+    background-color: blanchedalmond;
+}
+.justificado{
+    background-color: blanchedalmond;
+}
+.text{
+    text-align: justify;
+}
+.centralizado{
+    text-align: center;
+}
+.colunatres{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 15%;
+}
+
+
